@@ -1,0 +1,13 @@
+ fname=[mclj_out.dat] 
+     n=      256
+   rho=  0.84450
+     t=  0.69950
+  disp=  0.10000
+
+    nt=        5000 (*   10)
+  accr= 6.76122e-01
+ <U>/N=-6.14386e+00
+  Cv/N= 5.54505e+00
+     p=-1.75013e-01
+
+ Write g(r) to 'amclj.dat? [y]  Write PDB format to amclj.pdb? [y] 
